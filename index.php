@@ -437,7 +437,7 @@
 									<div class="col-md-4 col-sm-6 col-padding">
 										<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 											<div class="fbox-icon">
-												<a href="#"><i class="icon-et-document"></i></a>
+												<a href="izin.php"><i class="icon-et-document"></i></a>
 											</div>
 											<h3>PEMBUATAN PERIZINAN</h3>
 										</div>
@@ -445,7 +445,7 @@
 									<div class="col-md-4 col-sm-6 col-padding">
 										<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 											<div class="fbox-icon">
-												<a href="#"><i class="icon-et-newspaper"></i></a>
+												<a href="news.php"><i class="icon-et-newspaper"></i></a>
 											</div>
 											<h3>HOT NEWS</h3>
 										</div>
@@ -453,7 +453,7 @@
 									<div class="col-md-4 col-sm-6 col-padding">
 										<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 											<div class="fbox-icon">
-												<a href="#"><i class="icon-et-chat"></i></a>
+												<a href="seminar.php"><i class="icon-et-chat"></i></a>
 											</div>
 											<h3>SEMINAR</h3>
 										</div>
@@ -605,7 +605,19 @@
           </div>
         </div>
         <div class="col-md-6 p-0">
-          <img class="img-fluid" src="one-page/images/maps.jpg"> </div>
+          <!-- <img class="img-fluid" src="one-page/images/maps.jpg"> </div> -->
+          <div id="googleMap" style="height:400px;width:100%;"></div>
+			<script>
+				function myMap() {
+					var myCenter = new google.maps.LatLng(-6.193809, 106.817654);
+					var mapProp = {center:myCenter, zoom:16, scrollwheel:false, draggable:true, mapTypeId:google.maps.MapTypeId.ROADMAP};
+					var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+					var marker = new google.maps.Marker({position:myCenter});
+					marker.setMap(map);
+				}
+			</script>
+			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhW66WRzktTgem_lFMANh-UxjzxHZk9JA&callback=myMap"></script>
+		</div>
       </div>
     </div>
   </div>
@@ -632,7 +644,7 @@
 
 	<!-- Google Map JavaScripts
 	============================================= -->
-	<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=YOUR_API_KEY"></script>
+	<!-- <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=YOUR_API_KEY"></script> -->
 	<script type="text/javascript" src="js/jquery.gmap.js"></script>
 
 	<!-- Footer Scripts
