@@ -485,7 +485,7 @@
 										<div class="col-md-4 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
-													<a href="#"><i class="icon-et-presentation"></i></a>
+													<a href="#"><i class="icon-et-tools"></i></a>
 												</div>
 												<h3>PEMBUATAN KONTRAK</h3>
 											</div>
@@ -493,7 +493,7 @@
 										<div class="col-md-4 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
-													<a href="#"><i class="icon-et-presentation"></i></a>
+													<a href="#"><i class="icon-et-attachment"></i></a>
 												</div>
 												<h3>BLOCKCHAIN</h3>
 											</div>
@@ -501,7 +501,7 @@
 										<div class="col-md-4 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
-													<a href="#"><i class="icon-et-presentation"></i></a>
+													<a href="#"><i class="icon-et-strategy"></i></a>
 												</div>
 												<h3>KONSULTASI BUSINESS PLAN</h3>
 											</div>
@@ -509,7 +509,7 @@
 										<div class="col-md-4 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
-													<a href="#"><i class="icon-et-presentation"></i></a>
+													<a href="#"><i class="icon-et-strategy"></i></a>
 												</div>
 												<h3>KONSULTASI INVENTASI</h3>
 											</div>
