@@ -166,7 +166,7 @@
 							<div class="vertical-middle">
 								<div class="emphasis-title">
 									<h1>
-										<span class="text-rotater nocolor" data-separator="|" data-rotate="fadeIn" data-speed="6000">
+										<span class="text-rotater nocolor" data-separator="|" data-rotate="fadeIn" data-speed="3000">
 											<span class="t-rotate t700 font-body opm-medium-word">LegalScope Indonesia.|Jasa Perizinan.|Kontrak Perusahaan.</span>
 										</span>
 									</h1>
@@ -430,11 +430,11 @@
 
 						<div class="common-height clearfix">
 
-							<div class="col-md-4 hidden-xs" style="background: url('images/service.jpg') center center no-repeat; background-size: cover;"></div>
-							<div class="col-md-8">
+							<!-- <div class="col-md-4 hidden-xs" style="background: url('images/service.jpg') center center no-repeat; background-size: cover;"></div> -->
+							<div class="col-md-12">
 								<div class="max-height">
 									<div class="row common-height grid-border clearfix">
-										<div class="col-md-4 col-sm-6 col-padding">
+										<div class="col-md-3 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
 													<a href="izin.php"><i class="icon-et-document"></i></a>
@@ -442,7 +442,7 @@
 												<h3>PEMBUATAN PERIZINAN</h3>
 											</div>
 										</div>
-										<div class="col-md-4 col-sm-6 col-padding">
+										<div class="col-md-3 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
 													<a href="news.php"><i class="icon-et-newspaper"></i></a>
@@ -450,7 +450,7 @@
 												<h3>HOT NEWS</h3>
 											</div>
 										</div>
-										<div class="col-md-4 col-sm-6 col-padding">
+										<div class="col-md-3 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
 													<a href="seminar.php"><i class="icon-et-chat"></i></a>
@@ -458,7 +458,7 @@
 												<h3>SEMINAR</h3>
 											</div>
 										</div>
-										<div class="col-md-4 col-sm-6 col-padding">
+										<div class="col-md-3 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
 													<a href="#"><i class="icon-et-gears"></i></a>
@@ -466,7 +466,7 @@
 												<h3>EVENT</h3>
 											</div>
 										</div>
-										<div class="col-md-4 col-sm-6 col-padding">
+										<div class="col-md-3 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
 													<a href="#"><i class="icon-et-browser"></i></a>
@@ -474,7 +474,7 @@
 												<h3>FORUM DISKUSI</h3>
 											</div>
 										</div>
-										<div class="col-md-4 col-sm-6 col-padding">
+										<div class="col-md-3 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
 													<a href="#"><i class="icon-et-presentation"></i></a>
@@ -482,7 +482,7 @@
 												<h3>WORKSHOP CLASS</h3>
 											</div>
 										</div>
-										<div class="col-md-4 col-sm-6 col-padding">
+										<div class="col-md-3 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
 													<a href="#"><i class="icon-et-tools"></i></a>
@@ -490,7 +490,7 @@
 												<h3>PEMBUATAN KONTRAK</h3>
 											</div>
 										</div>
-										<div class="col-md-4 col-sm-6 col-padding">
+										<div class="col-md-3 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
 													<a href="#"><i class="icon-et-attachment"></i></a>
@@ -498,7 +498,7 @@
 												<h3>BLOCKCHAIN</h3>
 											</div>
 										</div>
-										<div class="col-md-4 col-sm-6 col-padding">
+										<div class="col-md-3 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
 													<a href="#"><i class="icon-et-strategy"></i></a>
@@ -506,7 +506,7 @@
 												<h3>KONSULTASI BUSINESS PLAN</h3>
 											</div>
 										</div>
-										<div class="col-md-4 col-sm-6 col-padding">
+										<div class="col-md-3 col-sm-6 col-padding">
 											<div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
 												<div class="fbox-icon">
 													<a href="#"><i class="icon-et-strategy"></i></a>
