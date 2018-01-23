@@ -197,7 +197,7 @@
 
 						<div class="container clearfix">
 
-							<h2 class="divcenter bottommargin font-body" style="max-width: 700px; font-size: 40px;"><br>Sebuah solusi cerdas untuk mengurus masalah Perizinan Hukum Perusahaan</h2>
+							<h2 class="divcenter bottommargin font-body" style="max-width: 700px; font-size: 35px;"><br>Sebuah solusi cerdas untuk mengurus masalah Legalitas & Dokumen Perusahaan</h2>
 
 							<p class="lead divcenter bottommargin" style="max-width: 800px;">Web ini dibuat untuk memudahkan urusan anda dalam Surat menyurat didalam perizinan perusahaan anda, serta hal hal lain yang akan membimbing anda dalam bidang bisnis</p>
 
