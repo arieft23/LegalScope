@@ -166,7 +166,7 @@
 							<div class="vertical-middle">
 								<div class="emphasis-title">
 									<h1>
-										<span class="text-rotater nocolor" data-separator="|" data-rotate="fadeIn" data-speed="6000">
+										<span class="text-rotater nocolor" data-separator="|" data-rotate="fadeIn" data-speed="3000">
 											<span class="t-rotate t700 font-body opm-medium-word">LegalScope Indonesia.|Jasa Perizinan.|Kontrak Perusahaan.</span>
 										</span>
 									</h1>
